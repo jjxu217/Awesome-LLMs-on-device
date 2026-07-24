@@ -158,6 +158,7 @@ Welcome to the ultimate hub for on-device Large Language Models (LLMs)! This rep
 - MLC-LLM: A machine learning compiler and high-performance deployment engine for large language models. [[Github]](https://github.com/mlc-ai/mlc-llm)
 - VLLM: A fast and easy-to-use library for LLM inference and serving. [[Github]](https://github.com/vllm-project/vllm)
 - OpenLLM: An open platform for operating large language models (LLMs) in production. [[Github]](https://python.langchain.com/v0.2/docs/integrations/llms/openllm/)
+- Xybrid: An open-source, local-first runtime for running LLMs natively in apps and games. [[Github]](https://github.com/xybrid-ai/xybrid)
 
 ### Hardware Acceleration
 

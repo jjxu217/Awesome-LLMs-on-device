@@ -105,6 +105,7 @@ Welcome to the ultimate hub for on-device Large Language Models (LLMs)! This rep
 
 ### Collaborative and Hierarchical Model Approaches
 
+- EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution <br> arXiv 2026 [[Paper]](https://arxiv.org/abs/2610.17816) [[Github]](https://github.com/OpenBMB/EC2-Bench)
 - EdgeShard: Efficient LLM Inference via Collaborative Edge Computing <br> arXiv 2024 [[Paper]](https://arxiv.org/abs/2405.14371)
 - Llmcad: Fast and scalable on-device large language model inference <br> arXiv 2023 [[Paper]](https://arxiv.org/abs/2309.04255)
 
